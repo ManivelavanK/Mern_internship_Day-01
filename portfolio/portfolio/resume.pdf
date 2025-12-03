@@ -1,0 +1,103 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 200
+>>
+stream
+BT
+/F1 12 Tf
+50 750 Td
+(MANIVELAVAN K) Tj
+0 -20 Td
+(B.Tech AI-DS Student | MERN Developer | AI/ML Enthusiast) Tj
+0 -40 Td
+(Phone: +91 9344788223) Tj
+0 -20 Td
+(Email: manivelavan420534@gmail.com) Tj
+0 -20 Td
+(LinkedIn: linkedin.com/in/manivelavank534/) Tj
+0 -20 Td
+(GitHub: github.com/ManivelavanK) Tj
+0 -40 Td
+(EDUCATION:) Tj
+0 -20 Td
+(B.Tech AI-DS, Sri Eshwar College of Engineering (CGPA: 8.5)) Tj
+0 -40 Td
+(SKILLS:) Tj
+0 -20 Td
+(C, C++, Python, JavaScript, HTML/CSS, AI/ML, OpenCV) Tj
+0 -40 Td
+(PROJECTS:) Tj
+0 -20 Td
+(1. Library Management System - Flask, Python) Tj
+0 -20 Td
+(2. AI Voice Agent for Insurance - 90%+ accuracy) Tj
+0 -20 Td
+(3. Hand Detection using OpenCV - Real-time recognition) Tj
+0 -40 Td
+(ACHIEVEMENTS:) Tj
+0 -20 Td
+(- LeetCode: 160+ problems solved, Contest Rating: 1391) Tj
+0 -20 Td
+(- CodeChef: 250+ problems solved) Tj
+0 -20 Td
+(- Top 5 in InsureBot Hackathon 2025) Tj
+0 -20 Td
+(- Top 50 in A2HackFest 2025) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000274 00000 n 
+0000001200 00000 n 
+trailer
+<<
+/Size 6
+/Root 1 0 R
+>>
+startxref
+1279
+%%EOF

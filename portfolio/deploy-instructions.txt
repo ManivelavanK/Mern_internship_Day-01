@@ -1,0 +1,51 @@
+PORTFOLIO DEPLOYMENT INSTRUCTIONS
+==================================
+
+Your portfolio is ready for deployment! Here's how to deploy it:
+
+OPTION 1: GITHUB PAGES (RECOMMENDED - FREE)
+-------------------------------------------
+1. Go to https://github.com/new
+2. Create repository named "portfolio" (public)
+3. Upload ALL files from D:\Desktop\portfolio\
+4. Go to Settings → Pages
+5. Select "Deploy from branch: main"
+6. Your site will be live at: https://ManivelavanK.github.io/portfolio/
+
+OPTION 2: NETLIFY (DRAG & DROP)
+-------------------------------
+1. Go to https://netlify.com
+2. Drag the entire portfolio folder
+3. Get instant URL like: manivelavan-portfolio.netlify.app
+
+OPTION 3: VERCEL
+---------------
+1. Go to https://vercel.com
+2. Import from GitHub or upload folder
+3. Auto-deploy with custom domain
+
+FILES TO UPLOAD:
+---------------
+✓ index.html (main page)
+✓ home.html
+✓ about.html  
+✓ education.html
+✓ skills.html
+✓ projects.html
+✓ problem-solving.html
+✓ contact.html
+✓ style.css
+✓ chatbase-integration.js
+✓ resume-handler.js
+✓ All images (1mani.jpg, about me.png, etc.)
+✓ Manivelavan Resume.pdf
+✓ README.md
+
+IMPORTANT NOTES:
+---------------
+- index.html is your main entry point
+- All images must be uploaded
+- Chatbase API will work automatically
+- Resume download will function properly
+
+Your portfolio is professional and ready to impress! 🚀

@@ -1,0 +1,22 @@
+{
+  "name": "Manivelavan Portfolio",
+  "short_name": "Manivelavan",
+  "description": "AI-DS Student & MERN Developer Portfolio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090a0f",
+  "theme_color": "#4cc9f0",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "port.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "port.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
